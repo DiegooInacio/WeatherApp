@@ -1,0 +1,25 @@
+@media (max-width: 500px) {
+  .card {
+    width: 80%;
+  }
+
+  .search {
+    width: 100%;
+  }
+
+  .search input {
+    height: 90%;
+    width: 90%;
+  }
+
+  .search button {
+    width: 12%;
+    height: 12%;
+  }
+
+  .search button img {
+    width: 100%;
+    max-width: 80%;
+    height: 100%;
+  }
+}
